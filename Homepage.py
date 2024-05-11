@@ -34,5 +34,4 @@ def app():
             st.markdown('Please Login using your email and password')
             st.balloons()
 
-# Call the app function
 app()
